@@ -1,0 +1,36 @@
+ 21  git init
+   22  git add linux
+   23  git status
+   24  git add linuxf1
+   25  git add linux f1
+   26  git add linuxf1
+   27  touch gopisai
+   28  vi gopisai
+   29  cat gopisai
+   30  git config --global user.name "gopi"
+   31  git config --global user.email "gopi@gmail.com"
+   32  git add gopi
+   33  git add demo
+   34  ls
+   35  git add .
+   36  git commit -m "first commit"
+   37  git remote add origin https://github.com/gopisai499/demo.git
+   38  git branch -M main
+   39  git push -u origin main
+   40  git remote add origin https://github.com/gopisai499/demo.git
+   41  git branch -M main
+   42  git push -u origin main
+   43  git remote add origin https://github.com/gopisai499/demo.git
+   44  git branch -M main
+   45  git push -u origin main
+   46  git push https://github.com/gopisai499/demo.git
+   47  git add linux
+   48  git commit -m "second commit"
+   49  git push https://github.com/gopisai499/demo.git
+   50  git add demo
+   51  touch demo
+   52  vi demo
+   53  git add demo
+   54  git commit -m "second commit"
+   55  git push https://github.com/gopisai499/demo.git
+   56  history
